@@ -1,7 +1,7 @@
 <!-- 🌟 GitHub Profile README – Drakiinox 🌟 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Drakiinox/Drakiinox/main/baniereGithub.png" alt="Drakiinox Banner" />
+  <img src="baniereGithub.png" alt="Drakiinox Banner" />
 </p>
 
 <p align="center">
