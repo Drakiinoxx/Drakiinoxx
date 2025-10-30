@@ -57,10 +57,10 @@ Currently looking for an opportunity to grow as a developer and contribute to me
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/TON-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/TON-LINKEDIN/](https://www.linkedin.com/in/nicolas-malafosse-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ton.email@exemple.com" target="_blank">
+  <a href="mailto:nicolas.malafosse@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://tonportfolio.com" target="_blank">
@@ -77,7 +77,7 @@ Currently looking for an opportunity to grow as a developer and contribute to me
 ---
 
 > 🧩 *"The best way to learn is by building."*  
-> — [Ton Prénom]
+> — Nicolas
 
 ---
 
@@ -89,12 +89,3 @@ Currently looking for an opportunity to grow as a developer and contribute to me
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
