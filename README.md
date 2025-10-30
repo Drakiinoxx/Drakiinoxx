@@ -62,13 +62,13 @@ Currently seeking an opportunity to grow as a developer and contribute to meanin
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nicolas-malafosse-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nicolas.malafosse@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Drakiinoxx&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Drakiinoxx&layout=compact&theme=tokyonight" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Drakiinoxx&theme=tokyonight" height="165" />
 </p>
 
 ---
