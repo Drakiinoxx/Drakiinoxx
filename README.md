@@ -54,8 +54,9 @@ Currently seeking an opportunity to grow as a developer and contribute to meanin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drakiinox&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Drakiinox&theme=tokyonight" height="165" />
 </p>
+
 
 ---
 
