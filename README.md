@@ -49,8 +49,8 @@ Currently seeking an opportunity to grow as a developer and contribute to meanin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drakiinox&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakiinox&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Drakiinox&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Drakiinox&layout=compact&theme=tokyonight" height="165">
 </p>
 
 <p align="center">
