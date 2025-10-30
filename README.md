@@ -83,10 +83,13 @@ Currently seeking an opportunity to grow as a developer and contribute to meanin
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38B2AC&height=120&section=footer)
+---
 
+<p align="center">
+  <i>“Code. Learn. Repeat.”</i><br/>
+  Made with ❤️ by <strong>Nicolas (Drakiinox)</strong>
+</p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38B2AC&height=120&section=footer)
 
 
 <!--
