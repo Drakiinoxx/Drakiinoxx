@@ -1,7 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0F172A&height=200&section=header&text=Hi%20there,%20I'm%20[Ton%20Prénom]%20👋&fontSize=35&fontColor=FFFFFF)
 
 <p align="center">
-  <a href="https://github.com/TON_PSEUDO_GITHUB">
+  <a href="https://github.com/Drakiinoxx">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;TypeScript+%7C+React.js+%7C+Node.js;TailwindCSS+%7C+Clean+Code+Enthusiast;Always+learning+new+things+🚀" alt="Typing SVG" />
   </a>
 </p>
@@ -37,7 +37,6 @@ Currently looking for an opportunity to grow as a developer and contribute to me
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 
 ---
